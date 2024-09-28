@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW_1</string>
+    <string name="additional_textview">for the lecture homework?</string>
+    <string name="hello_world">Can I use Composable Framework?</string>
+    <string name="first_homework">First Homework</string>
+    <string name="Korean_Test">한글도 잘 나오는지 테스트</string>
+</resources>
