@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
+fun calculator() {
     val capacity = 100
     val numbers = listOf(1, 30, 20, 20, 0)
     val operators = listOf( '/', '+', '*', '%', '/')
