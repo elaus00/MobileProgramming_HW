@@ -5,12 +5,13 @@
 ### HW_2
 - MainActivity 속 각 함수 참조
   - calculator
-    capacityAndLog
-    countWords
-    rotateString
-    isPalindrome
-    sameNumber
-    countCharacters
-    GreetingPreview
+  - capacityAndLog
+  - countWords
+  - rotateString
+  - isPalindrome
+  - sameNumber
+  - countCharacters
 
 ### HW_3
+- Problem 1-10
+
