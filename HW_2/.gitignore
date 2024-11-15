@@ -1,0 +1,41 @@
+# Global ignores
+.DS_Store
+*.log
+**/.idea/
+.gradle/
+**/build/
+
+# HW_1 (Week 1) ignores
+/HW_1/build/
+/HW_1/.gradle/
+/HW_1/local.properties 
+
+# HW_2 (Week 2) ignores
+/HW_2/build/
+/HW_2/.gradle/
+/HW_2/local.properties 
+
+# HW_3 (Week 3) ignores
+/HW_3/build/
+/HW_3/.gradle/
+/HW_3/local.properties 
+
+# HW_4 (Week 4) ignores
+/HW_4/build/
+/HW_4/.gradle/
+/HW_4/local.properties 
+
+# HW_5 (Week 5) ignores
+/HW_5/build/
+/HW_5/.gradle/
+/HW_5/local.properties 
+
+# HW_6 (Week 6) ignores
+/HW_6/build/
+/HW_6/.gradle/
+/HW_6/local.properties 
+
+# Keep Gradle wrapper files
+!**/gradle/wrapper/gradle-wrapper.jar
+!**/gradlew
+!**/gradlew.bat
