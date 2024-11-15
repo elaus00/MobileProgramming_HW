@@ -15,3 +15,7 @@
 ### HW_3
 - Problem 1-10
 
+### HW_4
+- ColorSwap
+- Portfolio App
+- Intent between MainActivity and SubActivity
